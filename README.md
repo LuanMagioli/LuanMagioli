@@ -7,7 +7,8 @@ Desde jovem fui atraído para o universo do desenvolvimento de software, sinto q
 Sou o tipo de pessoa que consegue tirar as ideias do papel e fazer acontecer, procuro sempre entregar o melhor de mim no meu trabalho, acho isso essencial.
 
 
-## Projects
+<!--
+## Projetos
 ---
 [SIASP - Sistema para Análise de Sementes por Peneiras](https://github.com/LuanMagioli/SIASP)
 
@@ -20,7 +21,7 @@ Bolsista de Iniciação Científica, Escola Agrícola de Jundiaí (2018/2019)
 
 [Caixa de areia interativa utilizando o Processing com Kinect](https://github.com/LuanMagioli/Processing_Sandview)
 Projeto desenvolvido para a Feira de Ciências da EAJ com o objetivo de visualizar a geração de terrenos em tempo real (2018)
-
+-->
 <br><br>
 
 
