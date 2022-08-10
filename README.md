@@ -20,19 +20,19 @@ Sou o tipo de pessoa que consegue tirar as ideias do papel e fazer acontecer, pr
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/luanmagioli" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-luanmagioli-05122A?style=flat-square&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-@luanmagioli-05122A?style=flat-square&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/luanmagioli" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-luanmagioli-05122A?style=flat-square&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/luanmagioli" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-luanmagioli-05122A?style=flat-square&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-@luanmagioli-05122A?style=flat-square&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://youtube.com/luanmagioli" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat-square&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-luanmagioli-05122A?style=flat-square&logo=youtube" alt="youtube"/>
 </a>
 <a href="https://medium.com/@luanmagioli" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat-square&logo=medium" alt="medium"/>
+ <img align="center" src="https://img.shields.io/badge/-@luanmagioli-05122A?style=flat-square&logo=medium" alt="medium"/>
 </a>
 
 </p>
