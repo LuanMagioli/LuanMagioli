@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://imgur.com/jCZCTzS.png"/>
 <h2 align="left"><img src="https://imgur.com/ad3h5c0.png" height="30px"> Olá, tudo bem?</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luanmagioli&color=blue" alt="Profile views" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=luanmagioli&color=blue" alt="Profile views" /> </p>-->
 
 Desde jovem fui atraído para o universo do desenvolvimento de software, sinto que resolver problemas é a minha praia 🌊, principalmente se a solução envolver visão computacional. 
 <br>
