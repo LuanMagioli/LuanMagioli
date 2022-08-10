@@ -3,18 +3,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luanmagioli&color=blue" alt="Profile views" /> </p>
 
 Desde jovem fui atraído para o universo do desenvolvimento de software, sinto que resolver problemas é a minha praia 🌊, principalmente se a solução envolver visão computacional. 
+<br>
 Sou o tipo de pessoa que consegue tirar as ideias do papel e fazer acontecer, procuro sempre entregar o melhor de mim no meu trabalho, acho isso essencial.
 
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-- ⚡ Fun fact **Oneye 😜**
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
+## Projects
+---
+[SIASP - Sistema para Análise de Sementes por Peneiras](https://github.com/LuanMagioli/SIASP)
 
+Bolsista de Iniciação Científica, Escola Agrícola de Jundiaí (2017/2018)
+
+[Sistema Automatizado para Análise do Teste de Tetrazólio em Sementes de Soja](https://github.com/LuanMagioli/SATT)
+
+- Trabalho apresentado de maneira presencial no congresso de iniciação científica da UFRN em 2019
+Bolsista de Iniciação Científica, Escola Agrícola de Jundiaí (2018/2019)
+
+[Caixa de areia interativa utilizando o Processing com Kinect](https://github.com/LuanMagioli/Processing_Sandview)
+Projeto desenvolvido para a Feira de Ciências da EAJ com o objetivo de visualizar a geração de terrenos em tempo real (2018)
 
 <br><br>
+
 
 ## Minhas redes
 
