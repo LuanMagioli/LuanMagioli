@@ -1,5 +1,5 @@
 <img align="right" height="540em" src="https://imgur.com/jCZCTzS.png"/>
-<h2 align="left"><img src="https://imgur.com/ad3h5c0.png" height="30px"> Olá, tudo bem?</h2>
+<h2 align="left"><img src="https://imgur.com/ad3h5c0.png" height="30px"></h2>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=luanmagioli&color=blue" alt="Profile views" /> </p>-->
 
 Desde jovem fui atraído para o universo do desenvolvimento de software, sinto que resolver problemas é a minha praia 🌊, principalmente se a solução envolver visão computacional. 
@@ -32,9 +32,12 @@ Projeto desenvolvido para a Feira de Ciências da EAJ com o objetivo de visualiz
   <img src="https://imgur.com/ad3h5c0.png" width="100" />
 </p>
 -->
-<br><br><br><br><br><br>
-<br><br><br><br>
 
+### O que tem me ocupado estes dias
+ - Framework multiplataforma para análise de fotografias de plântulas, mudas e suas partes contintuíntes
+ - Desenvolvimento de sistema embarcado para tratamento, monitoramento e definição de protocolos para doenças do neurônio motor, com especial atenção para a Esclerose Lateral Amiotrófica.
+
+<br>
 
 ## Minhas redes
 
