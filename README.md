@@ -34,6 +34,7 @@ Projeto desenvolvido para a Feira de Ciências da EAJ com o objetivo de visualiz
 -->
 
 ### O que tem me ocupado estes dias
+ - Dinâmica da comunicação vocal durante interação social em roedores: implicações para a compreensão do autismo
  - Framework multiplataforma para análise de fotografias de plântulas, mudas e suas partes contintuíntes
  - Desenvolvimento de sistema embarcado para tratamento, monitoramento e definição de protocolos para doenças do neurônio motor, com especial atenção para a Esclerose Lateral Amiotrófica.
 
